@@ -1,6 +1,6 @@
 from cryptography.fernet import Fernet
 
-# we will be encrypting the string below.
+#  encrypt the string below.
 message = "3fe5b8e08fe69540ffc962c96e7ebb6b"
 
 # generate a key for encryption and decryption
