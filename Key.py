@@ -9,7 +9,7 @@ message = "3fe5b8e08fe69540ffc962c96e7ebb6b"
 
 key = Fernet.generate_key()
 
-# Instance the Fernet class with the key
+# Instanciate the Fernet class with the key
 
 fernet = Fernet(key)
 
